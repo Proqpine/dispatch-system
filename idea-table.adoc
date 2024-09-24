@@ -1,0 +1,269 @@
+== What can I learn?
+
+.Ideas in everyday life
+
+[cols="1,2,2"]
+|===
+|Technology |Wikipedia Link |Specification/File Format Link
+
+|WAVE Audio Format
+|https://en.wikipedia.org/wiki/WAV
+|https://www.aelius.com/njh/wavemetatools/doc/riffmci.pdf
+
+|QR Codes
+|https://en.wikipedia.org/wiki/QR_code
+|https://www.iso.org/standard/62021.html
+
+|RFID Tags
+|https://en.wikipedia.org/wiki/Radio-frequency_identification
+|https://www.gs1.org/standards/epc-rfid
+
+|Bluetooth Low Energy (BLE)
+|https://en.wikipedia.org/wiki/Bluetooth_Low_Energy
+|https://www.bluetooth.com/specifications/specs/
+
+|GPS
+|https://en.wikipedia.org/wiki/Global_Positioning_System
+|https://www.gps.gov/technical/icwg/
+
+|LCD Screens
+|https://en.wikipedia.org/wiki/Liquid-crystal_display
+|N/A
+
+|Touch Screens
+|https://en.wikipedia.org/wiki/Touchscreen
+|N/A
+
+|Wi-Fi
+|https://en.wikipedia.org/wiki/Wi-Fi
+|https://www.wi-fi.org/discover-wi-fi/specifications
+
+|Solid-State Drives (SSDs)
+|https://en.wikipedia.org/wiki/Solid-state_drive
+|N/A
+
+|JPEG Compression
+|https://en.wikipedia.org/wiki/JPEG
+|https://www.w3.org/Graphics/JPEG/
+
+|NFC Technology
+|https://en.wikipedia.org/wiki/Near-field_communication
+|https://nfc-forum.org/our-work/specification-releases/
+
+|EXIF Metadata
+|https://en.wikipedia.org/wiki/Exif
+|https://www.exif.org/Exif2-2.PDF
+
+|PDF File Structure
+|https://en.wikipedia.org/wiki/PDF
+|https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/PDF32000_2008.pdf
+
+|ZIP File Compression
+|https://en.wikipedia.org/wiki/ZIP_(file_format)
+|https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT
+
+|HTTP Protocol
+|https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+|https://datatracker.ietf.org/doc/html/rfc2616
+
+|XML
+|https://en.wikipedia.org/wiki/XML
+|https://www.w3.org/TR/xml/
+
+|JSON
+|https://en.wikipedia.org/wiki/JSON
+|https://www.json.org/json-en.html
+
+|SQL Databases
+|https://en.wikipedia.org/wiki/SQL
+|https://www.iso.org/standard/63555.html
+
+|Encryption Algorithms
+|https://en.wikipedia.org/wiki/Encryption
+|N/A (varies by algorithm)
+
+|ASCII Art
+|https://en.wikipedia.org/wiki/ASCII_art
+|N/A
+
+|Regular Expressions
+|https://en.wikipedia.org/wiki/Regular_expression
+|https://www.pcre.org/
+
+|Audio Processing
+|https://en.wikipedia.org/wiki/Audio_signal_processing
+|N/A
+
+|Machine Learning
+|https://en.wikipedia.org/wiki/Machine_learning
+|N/A
+
+|Computer Vision
+|https://en.wikipedia.org/wiki/Computer_vision
+|N/A
+
+|Blockchain
+|https://en.wikipedia.org/wiki/Blockchain
+|https://ethereum.github.io/yellowpaper/paper.pdf (Ethereum example)
+
+|Steganography
+|https://en.wikipedia.org/wiki/Steganography
+|N/A
+
+|Barcodes
+|https://en.wikipedia.org/wiki/Barcode
+|https://www.gs1.org/standards/barcodes
+
+|Traffic Light Systems
+|https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination
+|N/A
+
+|Electronic Shelf Labels
+|https://en.wikipedia.org/wiki/Electronic_shelf_label
+|N/A
+
+|Ticket Validation Systems
+|https://en.wikipedia.org/wiki/Automated_fare_collection
+|N/A
+
+|Digital Billboards
+|https://en.wikipedia.org/wiki/Digital_billboard
+|N/A
+
+|Automated License Plate Recognition
+|https://en.wikipedia.org/wiki/Automatic_number-plate_recognition
+|N/A
+
+|Contactless Card Readers
+|https://en.wikipedia.org/wiki/Contactless_payment
+|https://www.emvco.com/emv-technologies/contactless/
+
+|Elevator Control Systems
+|https://en.wikipedia.org/wiki/Elevator#Control_systems
+|N/A
+
+|Automatic Doors
+|https://en.wikipedia.org/wiki/Automatic_door
+|N/A
+
+|Parking Meters
+|https://en.wikipedia.org/wiki/Parking_meter
+|N/A
+
+|ATM Machines
+|https://en.wikipedia.org/wiki/Automated_teller_machine
+|N/A
+
+|Vending Machines
+|https://en.wikipedia.org/wiki/Vending_machine
+|N/A
+
+|Digital Price Tags
+|https://en.wikipedia.org/wiki/Electronic_pricing
+|N/A
+
+|Smart Trash Bins
+|https://en.wikipedia.org/wiki/Smart_waste_management
+|N/A
+
+|Public Wi-Fi Hotspots
+|https://en.wikipedia.org/wiki/Hotspot_(Wi-Fi)
+|N/A
+
+|===
+
+.Exploring Elevator Dispatch
+= Elevator Control Systems
+
+== Overview
+
+Elevator control systems have evolved significantly over the years, with various types designed to optimize efficiency, reduce wait times, and improve user experience. The system you've observed in large corporate buildings, where you select a floor and are assigned a specific elevator (often by letter), is a type of advanced system called Destination Dispatch.
+
+== Types of Elevator Control Systems
+
+=== 1. Conventional Control
+
+* Most common in older and smaller buildings
+* Passengers press up/down buttons, then select their floor once inside
+* Elevators typically stop at every floor where a button was pressed
+
+=== 2. Collective Control
+
+* Similar to conventional, but more efficient
+* The system groups passengers going to nearby floors in the same elevator
+
+=== 3. Destination Dispatch System
+
+* Passengers select their destination floor before entering the elevator
+* The system assigns an elevator (often designated by a letter) to optimize travel
+* Benefits include reduced wait times and more efficient grouping of passengers
+
+=== 4. Double-Deck Elevator System
+
+* Uses two cabs attached together, serving adjacent floors simultaneously
+* Often combined with destination dispatch for extra efficiency
+
+=== 5. Artificial Intelligence (AI) and Machine Learning Systems
+
+* Modern systems use AI to predict traffic patterns and adjust elevator behavior
+* Can learn from historical data to optimize performance during peak hours
+
+=== 6. Sabbath Elevators
+
+* Designed for use on the Sabbath in Jewish law
+* Automatically stops at every floor, eliminating the need to press buttons
+
+=== 7. Regenerative Drive Systems
+
+* Focus on energy efficiency by recovering energy during descent
+* The recovered energy can be fed back into the building's power grid
+
+== Destination Dispatch System in Detail
+
+The Destination Dispatch systemfootnote:[https://www.kone.com.au/Images/brochure-kone-polaris_tcm46-18639.pdf], which you've observed, works as follows:
+
+1. Passenger arrives at the elevator bank
+2. Passenger selects their destination floor on a touchscreen or keypad
+3. System processes the request and determines the optimal elevator
+4. System assigns and displays an elevator designation (often a letter) to the passenger
+5. Passenger waits at the assigned elevator
+6. Elevator arrives, passenger boards, and is taken to their destination
+
+=== Interesting Aspects of Destination Dispatch Systems
+
+* Traffic Analysis::
+These systems often use historical data to predict busy periods and adjust their algorithms accordingly.
+
+* Personalization::
+Some systems can recognize individuals (via access cards) and remember their usual destinations.
+
+* Accessibility Features::
+They can be programmed to assign more spacious elevators or longer door-open times for users with special needs.
+
+* Security Integration::
+In some buildings, they're integrated with access control systems to manage which floors each person can access.
+
+=== Flowchart of Destination Dispatch System
+[source,mermaid]
+....
+graph TD
+A[Passenger Arrives] --> B{Touch Screen Available?}
+B -->|Yes| C[Select Destination Floor]
+B -->|No| D[Use Keypad to Enter Floor]
+C --> E[System Processes Request]
+D --> E
+E --> F{Optimal Elevator Available?}
+F -->|Yes| G[Assign Elevator Letter]
+F -->|No| H[Wait for Elevator to Become Available]
+H --> F
+G --> I[Display Elevator Letter to Passenger]
+I --> J[Passenger Waits at Assigned Elevator]
+J --> K[Elevator Arrives]
+K --> L[Passenger Boards]
+L --> M[Elevator Goes to Destination]
+....
+This flowchart illustrates the basic process of a destination dispatch system, demonstrating how passengers interact with the system and how elevators are assigned.
+
+== Conclusion
+
+Elevator control systems, particularly advanced ones like Destination Dispatch, represent a fascinating intersection of user experience design, traffic optimization, and technology. As buildings become taller and busier, these systems will likely continue to evolve, incorporating more AI and personalization features to further improve efficiency and user satisfaction.

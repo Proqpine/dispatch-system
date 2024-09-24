@@ -1,0 +1,7 @@
+= Dispatch System
+
+image::elevator-image.png[Elevator System,300,350]
+
+.So how do they work?
+* They feel magical but as a programmer I know there is no magic so I will implement
+my own using `Ruby`
