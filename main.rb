@@ -27,10 +27,15 @@ class Elevator
   end
 
   def travel
-    puts "Going #{@position - @destination} floors to destination"
+    while @position > @destination
+      puts "On floor #{@position}"
+      @position -= 1
+      puts 'Arrived at destination' if @position == @destination
+    end
   end
 end
 
 gs_elevator = Elevator.new(10)
 gs_elevator.select_floor(1, 5)
 gs_elevator.call_elevator
+gs_elevator.travel
